@@ -1,0 +1,29 @@
+{
+  "name": "css_task_132",
+  "version": "1.0.0",
+  "description": "resolving css task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexwertand/css_task_132.git"
+  },
+  "author": "alex_wert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexwertand/css_task_132/issues"
+  },
+  "homepage": "https://github.com/alexwertand/css_task_132#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-sass": "^3.1.0"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}

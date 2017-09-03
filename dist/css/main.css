@@ -1,0 +1,12 @@
+html {
+  color: whitesmoke; }
+
+body {
+  background-color: white;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-transform: translate(10px);
+      -ms-transform: translate(10px);
+          transform: translate(10px); }
